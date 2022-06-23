@@ -73,11 +73,12 @@ func main() {
 <br/>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mitsimi&show_icons=true&theme=nord&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mitsimi&theme=nord&hide_border=true" />
-  </a>
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mitsimi&theme=nord&hide_border=true" />
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mitsimi&theme=nord_dark&hide_border=true" />
 </p>
 <br>
 
+![]()
 ![Noah Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=mitsimi&custom_title=mitsimi%20Trips's%20Contribution%20Graph&theme=nord&&hide_border=true&line=d1a01f&point=c58545)
 
 
