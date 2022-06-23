@@ -1,17 +1,3 @@
-<!--
-**mitsimi/mitsimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">
   <b>Hi there 👋</b>
 </h1>
@@ -21,13 +7,7 @@ I'm constantly trying to improve in programming and learning new technologies.
 
 <br>
 
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-GO-5FC9D8?style=for-the-badge&logo=go&logoColor=5FC9D8&labelColor=282828">
-</div>
-</p>
+
 
 ```go
 package biography
@@ -47,7 +27,47 @@ func main() {
 }
 ```
 
-## My Statistics
+
+## 💼 **Skills**
+
+<p>
+  <div align="center">
+    <img src="https://img.shields.io/badge/-GO-5FC9D8?style=for-the-badge&logo=go&logoColor=5FC9D8&labelColor=282828">
+    <img src="https://img.shields.io/badge/-DOCKER-0db7ed?style=for-the-badge&logo=docker&logoColor=0db7ed&labelColor=282828">
+    <img src="https://img.shields.io/badge/-JAVA-cd7d0c?style=for-the-badge&logo=java&logoColor=f89820&labelColor=282828">
+    <img src="https://img.shields.io/badge/-MONGODB-47a248?style=for-the-badge&logo=mongodb&logoColor=47a248&labelColor=282828">
+    <img src="https://img.shields.io/badge/-GITLAB-fc6d26?style=for-the-badge&logo=gitlab&labelColor=282828">
+    <img src="https://img.shields.io/badge/-GITHUB-white?style=for-the-badge&logo=GITHUB&logoColor=&labelColor=282828">
+    <br/>
+    <img src="https://img.shields.io/badge/-HTML-cc4722?style=for-the-badge&logo=html5&labelColor=282828">
+    <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+    <img src="https://img.shields.io/badge/-NODEJS-2f6e2f?style=for-the-badge&logo=node.js&logoColor=&labelColor=282828">
+    <img src="https://img.shields.io/badge/-NPM-cb0000?style=for-the-badge&logo=npm&logoColor=f0db4f&labelColor=282828">
+    <img src="https://img.shields.io/badge/-JS-f0db4f?style=for-the-badge&logo=javascript&logoColor=f0db4f&labelColor=282828">
+    <img src="https://img.shields.io/badge/-TS-007acc?style=for-the-badge&logo=typescript&logoColor=007acc&labelColor=282828">
+  </div>
+</p>
+
+<br/>
+
+
+<summary style="font-weight:bold;font-size:16px;">Currently looking into . . .</summary>
+<br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/-RUST-f74c00?style=for-the-badge&logo=rust&logoColor=f74c00&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Ionic-informational?style=for-the-badge&logo=ionic&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Tailwind-4AB197?style=for-the-badge&logo=Tailwind-CSS&logoColor=4AB197&labelColor=282828">
+  <img src="https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react&labelColor=282828">
+  <img src="https://img.shields.io/badge/-NEXTJS-white?style=for-the-badge&logo=next.js&logoColor=&labelColor=282828">
+  <img src="https://img.shields.io/badge/-REDIS-af342c?style=for-the-badge&logo=redis&labelColor=282828">
+  <img src="https://img.shields.io/badge/-KUBERNETES-326ce5?style=for-the-badge&logo=kubernetes&labelColor=282828">
+  <img src="">
+</div>
+
+
+<br/>
+
+## 📈 **Statistics**
 
 <br/>
 <p align="left">
