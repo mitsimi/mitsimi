@@ -63,7 +63,6 @@ func main() {
   <img src="https://img.shields.io/badge/-REDIS-af342c?style=for-the-badge&logo=redis&labelColor=282828">
   <img src="https://img.shields.io/badge/-POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=282828">
   <img src="https://img.shields.io/badge/-KUBERNETES-326ce5?style=for-the-badge&logo=kubernetes&labelColor=282828">
-  <img src="">
 </div>
 
 
