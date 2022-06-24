@@ -87,7 +87,6 @@ func main() {
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mitsimi&theme=nord&hide_border=true" />
   <img style="display: block;margin-left: auto;margin-right: auto;width: 100%;" src="https://raw.githubusercontent.com/mitsimi/mitsimi/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
 </p>
-<br>
 
 ![]()
 ![Noah Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=mitsimi&custom_title=mitsimi%20Trips's%20Contribution%20Graph&theme=nord&&hide_border=true&line=d1a01f&point=c58545)
