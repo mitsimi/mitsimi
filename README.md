@@ -85,7 +85,7 @@ func main() {
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mitsimi&show_icons=true&theme=nord&hide_border=true" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mitsimi&theme=nord&hide_border=true" />
-  <img style="display: block;margin-left: auto;margin-right: auto;width: 100%;" src="https://raw.githubusercontent.com/mitsimi/mitsimi/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
+  <!--img style="display: block;margin-left: auto;margin-right: auto;width: 100%;" src="https://raw.githubusercontent.com/mitsimi/mitsimi/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
 </p>
 
 ![]()
