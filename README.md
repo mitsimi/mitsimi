@@ -60,7 +60,7 @@ func main() {
 
 <br/>
 
-
+<!--
 <summary style="font-weight:bold;font-size:16px;">👀 Currently looking into . . .</summary>
 <br/>
 <div align="center">
@@ -75,8 +75,7 @@ func main() {
   <img src="https://img.shields.io/badge/-KUBERNETES-326ce5?style=for-the-badge&logo=kubernetes&labelColor=282828">
   
 </div>
-
-
+-->
 <br/>
 
 ## 📈 **Statistics**
