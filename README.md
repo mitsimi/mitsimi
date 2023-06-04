@@ -47,7 +47,7 @@ func main() {
   <div align="center">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&labelColor=282828">
     <img src="https://img.shields.io/badge/-GO-5FC9D8?style=for-the-badge&logo=go&logoColor=5FC9D8&labelColor=282828">
-    <img src="https://img.shields.io/badge/-JAVA-cd7d0c?style=for-the-badge&logo=java&logoColor=f89820&labelColor=282828">
+    <img src="https://img.shields.io/badge/-OpenJDK-ED8B00?style=for-the-badge&logo=OpenJDK&logoColor=f89820&labelColor=282828">
     <img src="https://img.shields.io/badge/-MONGODB-47a248?style=for-the-badge&logo=mongodb&logoColor=47a248&labelColor=282828">
     <img src="https://img.shields.io/badge/-HTML-cc4722?style=for-the-badge&logo=html5&labelColor=282828">
     <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
