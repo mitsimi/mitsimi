@@ -2,7 +2,7 @@
   <b>Hi there 👋</b>
 </h1>
 
-I'm Noah Füreder, a gratuate of a higher technical college in Austria for information technologies and security.
+I'm Noah Füreder, a university student in Austria for informatics.
 I'm constantly trying to improve in programming and learning new technologies.
 
 <br>
