@@ -2,12 +2,11 @@
   <b>Hi there 👋</b>
 </h1>
 
-I'm Noah Füreder, a university student in Austria for informatics.
+I'm Noah, a university student in Austria for informatics.
 I'm constantly trying to improve in programming and learning new technologies.
 
+Latest obsession? Fibonacci Heaps
 <br>
-
-
 
 ```go
 package biography
