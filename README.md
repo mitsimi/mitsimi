@@ -18,7 +18,7 @@ type Bio struct {
     
 func main() {
     me := Bio {
-      name:     "Noah Füreder",
+      name:     "Noah",
       username: "mitsimi",
       location: "Linz, Austria",
     }
